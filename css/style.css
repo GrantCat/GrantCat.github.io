@@ -1,0 +1,27 @@
+body {
+    background-color: cornsilk;
+    color: #555;
+
+    font-size: 20px;
+}
+
+.box1 {
+    background-color: antiquewhite;
+    color: burlywood;
+
+    border-top: 20px coral solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.box2 {
+    border: 5px dotted #ccc;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px 5px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
